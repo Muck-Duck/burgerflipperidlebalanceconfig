@@ -13,7 +13,7 @@ export const balanceConfig = {
 
     // Individual employee configs
     rookie: {
-      baseProduction: 2,
+      baseProduction: 500,
       baseWage: 0,
       maxOwned: 10,
       purchaseCost: 5,
@@ -2070,3 +2070,4 @@ window.reloadBalance = reloadBalance;
     }
   }
 })();
+
