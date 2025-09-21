@@ -1,5 +1,9 @@
 # Burger Idle Balance Configuration
 
+Testing at:
+
+https://staging--burgerflipperidle.netlify.app/
+
 This repository contains the balance configuration for Burger Idle.
 
 ## How to Edit
