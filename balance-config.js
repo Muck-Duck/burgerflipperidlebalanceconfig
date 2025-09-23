@@ -129,7 +129,7 @@ export const balanceConfig = {
  ****************************************/
   advertising: {
     // System unlock requirement
-    systemUnlockRequirement: 1000000, // 1 trillion burgers sold
+    systemUnlockRequirement: 1, // Unlocks Instantly On 2nd Prestige
 
     // Advertising upgrade definitions
     upgrades: {
@@ -2070,5 +2070,6 @@ window.reloadBalance = reloadBalance;
     }
   }
 })();
+
 
 
